@@ -12,3 +12,8 @@ p{
 b{
   font-size: 30px;
 }
+
+.border{
+  border: solid black 5px;
+  background-color: 
+}
